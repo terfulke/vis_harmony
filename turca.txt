@@ -1,0 +1,391 @@
+1:2.0: null:null:A MOLL:null:null:turca_20240128182224.mid
+2:1.0: A MINOR_TRIAD:ROOT(5):A MOLL:T (I):null:turca_20240128182224.mid
+2:2.0: null:null:A MOLL:null:null:turca_20240128182224.mid
+3:2.0: F DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:turca_20240128182224.mid
+4:1.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+4:2.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+5:2.0: A MINOR_TRIAD:ROOT(5):A MOLL:T (I):null:turca_20240128182224.mid
+6:2.0: E MINOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+7:2.0: E MINOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+8:2.0: E MINOR_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+9:2.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+10:1.0: A MINOR_TRIAD:ROOT(5):A MOLL:T (I):null:turca_20240128182224.mid
+10:2.0: null:null:A MOLL:null:null:turca_20240128182224.mid
+11:2.0: F DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:turca_20240128182224.mid
+12:1.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+12:2.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+13:2.0: A MINOR_TRIAD:ROOT(5):A MOLL:T (I):null:turca_20240128182224.mid
+14:2.0: E MINOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+15:2.0: E MINOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+16:2.0: E MINOR_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+17:2.0: null:null:null:null:null:turca_20240128182224.mid
+18:1.5: A MINOR_SEVENTH:QUINTSEXT(5,6):null:null:null:turca_20240128182224.mid
+18:2.0: null:null:null:null:null:turca_20240128182224.mid
+19:1.0: G MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+19:2.0: null:null:null:null:null:turca_20240128182224.mid
+20:2.0: A MINOR_SEVENTH:QUINTSEXT(5,6):null:null:null:turca_20240128182224.mid
+21:2.0: G MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+22:1.5: F MAJOR_SEVENTH:QUINTSEXT(5,6):null:null:null:turca_20240128182224.mid
+22:2.0: null:null:null:null:null:turca_20240128182224.mid
+23:1.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+23:2.0: null:null:null:null:null:turca_20240128182224.mid
+24:1.5: F MAJOR_SEVENTH:QUINTSEXT(5,6):null:null:null:turca_20240128182224.mid
+24:2.0: null:null:null:null:null:turca_20240128182224.mid
+25:0.5: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+25:2.0: null:null:null:null:null:turca_20240128182224.mid
+26:1.0: A MINOR_TRIAD:ROOT(5):A MOLL:T (I):null:turca_20240128182224.mid
+26:2.0: null:null:A MOLL:null:null:turca_20240128182224.mid
+27:2.0: F DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:turca_20240128182224.mid
+28:1.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+28:2.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+29:1.0: null:null:null:null:null:turca_20240128182224.mid
+29:2.0: B DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:turca_20240128182224.mid
+30:1.0: null:null:null:null:null:turca_20240128182224.mid
+30:2.0: G#! DIMINISHED_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+31:1.0: A MINOR_TRIAD:SEXT(6):A MOLL:T (I):null:turca_20240128182224.mid
+31:2.0: B DIMINISHED_TRIAD:SEXT(6):A MOLL:II:null:turca_20240128182224.mid
+32:2.0: null:null:null:null:null:turca_20240128182224.mid
+33:2.0: null:null:null:null:null:turca_20240128182224.mid
+34:1.5: A MINOR_SEVENTH:QUINTSEXT(5,6):null:null:null:turca_20240128182224.mid
+34:2.0: null:null:null:null:null:turca_20240128182224.mid
+35:1.0: G MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+35:2.0: null:null:null:null:null:turca_20240128182224.mid
+36:2.0: A MINOR_SEVENTH:QUINTSEXT(5,6):null:null:null:turca_20240128182224.mid
+37:2.0: G MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+38:1.5: F MAJOR_SEVENTH:QUINTSEXT(5,6):null:null:null:turca_20240128182224.mid
+38:2.0: null:null:null:null:null:turca_20240128182224.mid
+39:1.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+39:2.0: null:null:null:null:null:turca_20240128182224.mid
+40:1.5: F MAJOR_SEVENTH:QUINTSEXT(5,6):null:null:null:turca_20240128182224.mid
+40:2.0: null:null:null:null:null:turca_20240128182224.mid
+41:0.5: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+41:2.0: null:null:null:null:null:turca_20240128182224.mid
+42:1.0: A MINOR_TRIAD:ROOT(5):A MOLL:T (I):null:turca_20240128182224.mid
+42:2.0: null:null:A MOLL:null:null:turca_20240128182224.mid
+43:2.0: F DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:turca_20240128182224.mid
+44:1.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+44:2.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+45:1.0: null:null:null:null:null:turca_20240128182224.mid
+45:2.0: B DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:turca_20240128182224.mid
+46:1.0: null:null:null:null:null:turca_20240128182224.mid
+46:2.0: G#! DIMINISHED_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+47:1.0: A MINOR_TRIAD:SEXT(6):A MOLL:T (I):null:turca_20240128182224.mid
+47:2.0: B DIMINISHED_TRIAD:SEXT(6):A MOLL:II:null:turca_20240128182224.mid
+48:2.0: null:null:null:null:null:turca_20240128182224.mid
+49:2.0: null:null:null:null:null:turca_20240128182224.mid
+50:2.0: null:null:null:null:null:turca_20240128182224.mid
+51:1.0: null:null:null:null:null:turca_20240128182224.mid
+51:2.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+52:1.0: null:null:null:null:null:turca_20240128182224.mid
+52:2.0: B DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:turca_20240128182224.mid
+53:1.0: null:null:A DUR:null:null:turca_20240128182224.mid
+53:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+54:2.0: null:null:null:null:null:turca_20240128182224.mid
+55:1.0: null:null:null:null:null:turca_20240128182224.mid
+55:2.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+56:1.0: G# DIMINISHED_MINOR_SEVENTH:SEPT(7):null:null:null:turca_20240128182224.mid
+56:2.0: null:null:null:null:null:turca_20240128182224.mid
+57:2.0: null:null:null:null:null:turca_20240128182224.mid
+58:2.0: null:null:null:null:null:turca_20240128182224.mid
+59:1.0: null:null:null:null:null:turca_20240128182224.mid
+59:2.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+60:1.0: null:null:null:null:null:turca_20240128182224.mid
+60:2.0: B DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:turca_20240128182224.mid
+61:1.0: null:null:A DUR:null:null:turca_20240128182224.mid
+61:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+62:2.0: null:null:null:null:null:turca_20240128182224.mid
+63:1.0: null:null:null:null:null:turca_20240128182224.mid
+63:2.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+64:1.0: G# DIMINISHED_MINOR_SEVENTH:SEPT(7):null:null:null:turca_20240128182224.mid
+64:2.0: null:null:null:null:null:turca_20240128182224.mid
+65:2.0: null:null:F# MOLL:null:null:turca_20240128182224.mid
+66:1.5: F# MINOR_TRIAD:ROOT(5):F# MOLL:T (I):null:turca_20240128182224.mid
+66:2.0: null:null:F# MOLL:null:null:turca_20240128182224.mid
+67:0.5: null:null:null:null:null:turca_20240128182224.mid
+67:1.0: C# MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+67:2.0: null:null:null:null:null:turca_20240128182224.mid
+68:1.0: C# MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+68:2.0: null:null:null:null:null:turca_20240128182224.mid
+69:2.0: B DIMINISHED_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+70:1.5: F# MINOR_TRIAD:ROOT(5):F# MOLL:T (I):null:turca_20240128182224.mid
+70:2.0: null:null:F# MOLL:null:null:turca_20240128182224.mid
+71:1.5: C# MINOR_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+71:2.0: null:null:null:null:null:turca_20240128182224.mid
+72:1.5: G# DOMINANT_SEVENTH:SEPT(7):null:null:null:turca_20240128182224.mid
+72:2.0: H#! DIMINISHED_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+73:2.0: null:null:F# MOLL:null:null:turca_20240128182224.mid
+74:1.5: F# MINOR_TRIAD:ROOT(5):F# MOLL:T (I):null:turca_20240128182224.mid
+74:2.0: null:null:F# MOLL:null:null:turca_20240128182224.mid
+75:0.5: null:null:null:null:null:turca_20240128182224.mid
+75:1.0: C# MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+75:2.0: null:null:null:null:null:turca_20240128182224.mid
+76:1.0: C# MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+76:2.0: null:null:null:null:null:turca_20240128182224.mid
+77:2.0: B DIMINISHED_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+78:1.5: F# MINOR_TRIAD:ROOT(5):F# MOLL:T (I):null:turca_20240128182224.mid
+78:2.0: null:null:F# MOLL:null:null:turca_20240128182224.mid
+79:1.5: C# MINOR_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+79:2.0: null:null:null:null:null:turca_20240128182224.mid
+80:1.5: G# DOMINANT_SEVENTH:SEPT(7):null:null:null:turca_20240128182224.mid
+80:2.0: H#! DIMINISHED_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+81:2.0: null:null:A DUR:null:null:turca_20240128182224.mid
+82:1.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+82:2.0: null:null:A DUR:null:null:turca_20240128182224.mid
+83:1.0: E MAJOR_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+83:1.5: E DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):A DUR:D (V):null:turca_20240128182224.mid
+83:2.0: null:null:A DUR:null:null:turca_20240128182224.mid
+84:1.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+84:2.0: null:null:A DUR:null:null:turca_20240128182224.mid
+85:2.0: A#! DIMINISHED_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+86:1.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+86:2.0: null:null:A DUR:null:null:turca_20240128182224.mid
+87:1.0: E MAJOR_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+87:1.5: E DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):A DUR:D (V):null:turca_20240128182224.mid
+87:2.0: null:null:A DUR:null:null:turca_20240128182224.mid
+88:0.5: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):[T (I), VI, D (V), T (I)]:turca_20240128182224.mid
+88:1.0: F# MINOR_TRIAD:ROOT(5):A DUR:VI:[T (I), VI, D (V), T (I)]:turca_20240128182224.mid
+88:1.5: null:null:A DUR:null:[T (I), VI, D (V), T (I)]:turca_20240128182224.mid
+88:2.0: E MAJOR_TRIAD:ROOT(5):A DUR:D (V):[T (I), VI, D (V), T (I)]:turca_20240128182224.mid
+89:2.0: null:null:F# MOLL:null:[T (I), VI, D (V), T (I)]:turca_20240128182224.mid
+90:1.5: F# MINOR_TRIAD:ROOT(5):F# MOLL:T (I):[T (I), VI, D (V), T (I)]:turca_20240128182224.mid
+90:2.0: null:null:F# MOLL:null:null:turca_20240128182224.mid
+91:0.5: null:null:null:null:null:turca_20240128182224.mid
+91:1.0: C# MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+91:2.0: null:null:null:null:null:turca_20240128182224.mid
+92:1.0: C# MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+92:2.0: null:null:null:null:null:turca_20240128182224.mid
+93:2.0: null:null:null:null:null:turca_20240128182224.mid
+94:2.0: null:null:null:null:null:turca_20240128182224.mid
+95:1.5: G# DIMINISHED_TRIAD:SEXT(6):null:null:null:turca_20240128182224.mid
+95:2.0: null:null:null:null:null:turca_20240128182224.mid
+96:0.5: null:null:F# MOLL:null:null:turca_20240128182224.mid
+96:1.0: F# MINOR_TRIAD:ROOT(5):F# MOLL:T (I):null:turca_20240128182224.mid
+96:1.5: null:null:F# MOLL:null:null:turca_20240128182224.mid
+96:2.0: E DIMINISHED_TRIAD:QUARTSEXT(4,6):F# MOLL:VII:null:turca_20240128182224.mid
+97:1.5: D MAJOR_TRIAD:SEXT(6):null:null:null:turca_20240128182224.mid
+97:2.0: null:null:null:null:null:turca_20240128182224.mid
+98:1.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+98:2.0: null:null:A DUR:null:null:turca_20240128182224.mid
+99:1.0: E MAJOR_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+99:1.5: E DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):A DUR:D (V):null:turca_20240128182224.mid
+99:2.0: null:null:A DUR:null:null:turca_20240128182224.mid
+100:1.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+100:2.0: null:null:A DUR:null:null:turca_20240128182224.mid
+101:2.0: A#! DIMINISHED_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+102:1.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+102:2.0: null:null:A DUR:null:null:turca_20240128182224.mid
+103:1.0: E MAJOR_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+103:1.5: E DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):A DUR:D (V):null:turca_20240128182224.mid
+103:2.0: null:null:A DUR:null:null:turca_20240128182224.mid
+104:0.5: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):[T (I), VI, D (V), T (I)]:turca_20240128182224.mid
+104:1.0: F# MINOR_TRIAD:ROOT(5):A DUR:VI:[T (I), VI, D (V), T (I)]:turca_20240128182224.mid
+104:1.5: null:null:A DUR:null:[T (I), VI, D (V), T (I)]:turca_20240128182224.mid
+104:2.0: E MAJOR_TRIAD:ROOT(5):A DUR:D (V):[T (I), VI, D (V), T (I)]:turca_20240128182224.mid
+105:2.0: null:null:F# MOLL:null:[T (I), VI, D (V), T (I)]:turca_20240128182224.mid
+106:1.5: F# MINOR_TRIAD:ROOT(5):F# MOLL:T (I):[T (I), VI, D (V), T (I)]:turca_20240128182224.mid
+106:2.0: null:null:F# MOLL:null:null:turca_20240128182224.mid
+107:0.5: null:null:null:null:null:turca_20240128182224.mid
+107:1.0: C# MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+107:2.0: null:null:null:null:null:turca_20240128182224.mid
+108:1.0: C# MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+108:2.0: null:null:null:null:null:turca_20240128182224.mid
+109:2.0: null:null:null:null:null:turca_20240128182224.mid
+110:2.0: null:null:null:null:null:turca_20240128182224.mid
+111:1.5: G# DIMINISHED_TRIAD:SEXT(6):null:null:null:turca_20240128182224.mid
+111:2.0: null:null:null:null:null:turca_20240128182224.mid
+112:0.5: null:null:F# MOLL:null:null:turca_20240128182224.mid
+112:1.0: F# MINOR_TRIAD:ROOT(5):F# MOLL:T (I):null:turca_20240128182224.mid
+112:1.5: null:null:F# MOLL:null:null:turca_20240128182224.mid
+112:2.0: E DIMINISHED_TRIAD:QUARTSEXT(4,6):F# MOLL:VII:null:turca_20240128182224.mid
+113:2.0: F# MINOR_TRIAD:SEXT(6):F# MOLL:T (I):null:turca_20240128182224.mid
+114:2.0: null:null:null:null:null:turca_20240128182224.mid
+115:1.0: null:null:null:null:null:turca_20240128182224.mid
+115:2.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+116:1.0: null:null:null:null:null:turca_20240128182224.mid
+116:2.0: E MAJOR_SEVENTH:SEPT(7):null:null:null:turca_20240128182224.mid
+117:1.0: null:null:A DUR:null:null:turca_20240128182224.mid
+117:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+118:2.0: null:null:null:null:null:turca_20240128182224.mid
+119:1.0: null:null:null:null:null:turca_20240128182224.mid
+119:2.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+120:1.0: G# DIMINISHED_MINOR_SEVENTH:SEPT(7):null:null:null:turca_20240128182224.mid
+120:2.0: null:null:null:null:null:turca_20240128182224.mid
+121:2.0: null:null:null:null:null:turca_20240128182224.mid
+122:2.0: null:null:null:null:null:turca_20240128182224.mid
+123:1.0: null:null:null:null:null:turca_20240128182224.mid
+123:2.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+124:1.0: null:null:null:null:null:turca_20240128182224.mid
+124:2.0: E MAJOR_SEVENTH:SEPT(7):null:null:null:turca_20240128182224.mid
+125:1.0: null:null:A DUR:null:null:turca_20240128182224.mid
+125:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+126:2.0: null:null:null:null:null:turca_20240128182224.mid
+127:1.0: null:null:null:null:null:turca_20240128182224.mid
+127:2.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+128:1.0: G# DIMINISHED_MINOR_SEVENTH:SEPT(7):null:null:null:turca_20240128182224.mid
+128:2.0: null:null:null:null:null:turca_20240128182224.mid
+129:2.0: null:null:A MOLL:null:null:turca_20240128182224.mid
+130:1.0: A MINOR_TRIAD:ROOT(5):A MOLL:T (I):null:turca_20240128182224.mid
+130:2.0: null:null:A MOLL:null:null:turca_20240128182224.mid
+131:2.0: F DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:turca_20240128182224.mid
+132:1.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+132:2.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+133:2.0: A MINOR_TRIAD:ROOT(5):A MOLL:T (I):null:turca_20240128182224.mid
+134:2.0: E MINOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+135:2.0: E MINOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+136:2.0: E MINOR_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+137:2.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+138:1.0: A MINOR_TRIAD:ROOT(5):A MOLL:T (I):null:turca_20240128182224.mid
+138:2.0: null:null:A MOLL:null:null:turca_20240128182224.mid
+139:2.0: F DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:turca_20240128182224.mid
+140:1.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+140:2.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+141:2.0: A MINOR_TRIAD:ROOT(5):A MOLL:T (I):null:turca_20240128182224.mid
+142:2.0: E MINOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+143:2.0: E MINOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+144:2.0: E MINOR_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+145:2.0: null:null:null:null:null:turca_20240128182224.mid
+146:1.5: A MINOR_SEVENTH:QUINTSEXT(5,6):null:null:null:turca_20240128182224.mid
+146:2.0: null:null:null:null:null:turca_20240128182224.mid
+147:1.0: G MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+147:2.0: null:null:null:null:null:turca_20240128182224.mid
+148:1.5: A MINOR_SEVENTH:QUINTSEXT(5,6):null:null:null:turca_20240128182224.mid
+148:2.0: null:null:null:null:null:turca_20240128182224.mid
+149:2.0: G MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+150:1.5: F MAJOR_SEVENTH:QUINTSEXT(5,6):null:null:null:turca_20240128182224.mid
+150:2.0: null:null:null:null:null:turca_20240128182224.mid
+151:1.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+151:2.0: null:null:null:null:null:turca_20240128182224.mid
+152:1.5: F MAJOR_SEVENTH:QUINTSEXT(5,6):null:null:null:turca_20240128182224.mid
+152:2.0: null:null:null:null:null:turca_20240128182224.mid
+153:1.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+153:2.0: null:null:null:null:null:turca_20240128182224.mid
+154:1.0: A MINOR_TRIAD:ROOT(5):A MOLL:T (I):null:turca_20240128182224.mid
+154:2.0: null:null:A MOLL:null:null:turca_20240128182224.mid
+155:2.0: F DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:turca_20240128182224.mid
+156:1.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+156:2.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+157:1.0: null:null:null:null:null:turca_20240128182224.mid
+157:2.0: B DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:turca_20240128182224.mid
+158:1.0: null:null:null:null:null:turca_20240128182224.mid
+158:2.0: G#! DIMINISHED_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+159:1.0: A MINOR_TRIAD:SEXT(6):A MOLL:T (I):null:turca_20240128182224.mid
+159:2.0: B DIMINISHED_TRIAD:SEXT(6):A MOLL:II:null:turca_20240128182224.mid
+160:0.25: A MINOR_TRIAD:QUARTSEXT(4,6):A MOLL:T (I):null:turca_20240128182224.mid
+160:2.0: null:null:A MOLL:null:null:turca_20240128182224.mid
+161:2.0: D MINOR_SEVENTH:TERZQUART(3,4):null:null:null:turca_20240128182224.mid
+162:1.5: A MINOR_SEVENTH:QUINTSEXT(5,6):null:null:null:turca_20240128182224.mid
+162:2.0: null:null:null:null:null:turca_20240128182224.mid
+163:1.0: G MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+163:2.0: null:null:null:null:null:turca_20240128182224.mid
+164:1.5: A MINOR_SEVENTH:QUINTSEXT(5,6):null:null:null:turca_20240128182224.mid
+164:2.0: null:null:null:null:null:turca_20240128182224.mid
+165:2.0: G MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+166:1.5: F MAJOR_SEVENTH:QUINTSEXT(5,6):null:null:null:turca_20240128182224.mid
+166:2.0: null:null:null:null:null:turca_20240128182224.mid
+167:1.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+167:2.0: null:null:null:null:null:turca_20240128182224.mid
+168:1.5: F MAJOR_SEVENTH:QUINTSEXT(5,6):null:null:null:turca_20240128182224.mid
+168:2.0: null:null:null:null:null:turca_20240128182224.mid
+169:1.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+169:2.0: null:null:null:null:null:turca_20240128182224.mid
+170:1.0: A MINOR_TRIAD:ROOT(5):A MOLL:T (I):null:turca_20240128182224.mid
+170:2.0: null:null:A MOLL:null:null:turca_20240128182224.mid
+171:2.0: F DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:turca_20240128182224.mid
+172:1.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+172:2.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+173:1.0: null:null:null:null:null:turca_20240128182224.mid
+173:2.0: B DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:turca_20240128182224.mid
+174:1.0: null:null:null:null:null:turca_20240128182224.mid
+174:2.0: G#! DIMINISHED_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+175:1.0: A MINOR_TRIAD:SEXT(6):A MOLL:T (I):null:turca_20240128182224.mid
+175:2.0: B DIMINISHED_TRIAD:SEXT(6):A MOLL:II:null:turca_20240128182224.mid
+176:0.25: A MINOR_TRIAD:QUARTSEXT(4,6):A MOLL:T (I):null:turca_20240128182224.mid
+176:2.0: null:null:A MOLL:null:null:turca_20240128182224.mid
+177:2.0: null:null:null:null:null:turca_20240128182224.mid
+178:2.0: null:null:null:null:null:turca_20240128182224.mid
+179:1.5: null:null:null:null:null:turca_20240128182224.mid
+179:2.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+180:1.5: D MAJOR_TRIAD:SEXT(6):null:null:null:turca_20240128182224.mid
+180:1.75: null:null:null:null:null:turca_20240128182224.mid
+180:2.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+181:1.5: null:null:A DUR:null:null:turca_20240128182224.mid
+181:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+182:2.0: null:null:null:null:null:turca_20240128182224.mid
+183:1.5: null:null:null:null:null:turca_20240128182224.mid
+183:2.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+184:0.75: B MINOR_TRIAD:SEXT(6):null:null:null:turca_20240128182224.mid
+184:1.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+184:2.0: null:null:null:null:null:turca_20240128182224.mid
+185:2.0: null:null:null:null:null:turca_20240128182224.mid
+186:2.0: null:null:null:null:null:turca_20240128182224.mid
+187:1.5: null:null:null:null:null:turca_20240128182224.mid
+187:2.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+188:1.5: D MAJOR_TRIAD:SEXT(6):null:null:null:turca_20240128182224.mid
+188:1.75: null:null:null:null:null:turca_20240128182224.mid
+188:2.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+189:1.5: null:null:A DUR:null:null:turca_20240128182224.mid
+189:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+190:2.0: null:null:null:null:null:turca_20240128182224.mid
+191:1.5: null:null:null:null:null:turca_20240128182224.mid
+191:2.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+192:0.75: B MINOR_TRIAD:SEXT(6):null:null:null:turca_20240128182224.mid
+192:1.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+192:1.5: null:null:null:null:null:turca_20240128182224.mid
+192:2.0: A MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+193:2.0: null:null:A DUR:null:null:turca_20240128182224.mid
+194:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+195:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+196:1.5: null:null:null:null:null:turca_20240128182224.mid
+196:2.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+197:1.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+197:2.0: D MAJOR_SEVENTH:TERZQUART(3,4):null:null:null:turca_20240128182224.mid
+198:1.0: null:null:null:null:null:turca_20240128182224.mid
+198:2.0: A MAJOR_SEVENTH:TERZQUART(3,4):null:null:null:turca_20240128182224.mid
+199:1.0: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+199:2.0: C# MINOR_SEVENTH:SEPT(7):null:null:null:turca_20240128182224.mid
+200:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+201:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+202:1.5: null:null:null:null:null:turca_20240128182224.mid
+202:2.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+203:1.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+203:2.0: D MAJOR_SEVENTH:TERZQUART(3,4):null:null:null:turca_20240128182224.mid
+204:1.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+204:2.0: A MAJOR_SEVENTH:TERZQUART(3,4):A DUR:T (I):null:turca_20240128182224.mid
+205:2.0: null:null:A DUR:null:null:turca_20240128182224.mid
+206:0.5: null:null:A DUR:null:null:turca_20240128182224.mid
+206:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+207:0.5: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+207:1.0: null:null:A DUR:null:null:turca_20240128182224.mid
+207:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+208:0.5: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+208:1.0: null:null:A DUR:null:null:turca_20240128182224.mid
+208:1.5: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+208:2.0: null:null:A DUR:null:null:turca_20240128182224.mid
+209:1.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+209:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+210:0.5: D MAJOR_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+210:1.0: null:null:null:null:null:turca_20240128182224.mid
+210:1.5: D MAJOR_TRIAD:QUARTSEXT(4,6):null:null:null:turca_20240128182224.mid
+210:2.0: null:null:null:null:null:turca_20240128182224.mid
+211:0.5: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+211:1.0: null:null:A DUR:null:null:turca_20240128182224.mid
+211:1.5: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+211:2.0: null:null:A DUR:null:null:turca_20240128182224.mid
+212:0.5: null:null:null:null:null:turca_20240128182224.mid
+212:1.0: E MAJOR_TRIAD:SEXT(6):null:null:null:turca_20240128182224.mid
+212:1.75: E MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+212:2.0: A MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+213:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+214:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+215:1.5: null:null:null:null:null:turca_20240128182224.mid
+215:2.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+216:1.0: D MAJOR_TRIAD:ROOT(5):null:null:null:turca_20240128182224.mid
+216:2.0: D MAJOR_SEVENTH:TERZQUART(3,4):null:null:null:turca_20240128182224.mid
+217:1.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+217:2.0: A MAJOR_SEVENTH:TERZQUART(3,4):A DUR:T (I):null:turca_20240128182224.mid
+218:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+219:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+220:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+221:2.0: null:null:A DUR:null:null:turca_20240128182224.mid
+222:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid
+223:2.0: A MAJOR_TRIAD:ROOT(5):A DUR:T (I):null:turca_20240128182224.mid

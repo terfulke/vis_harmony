@@ -1,0 +1,356 @@
+2:1.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+2:2.0: D DOMINANT_SEVENTH_INCOMPLETE:QUARTSEXT(4,6):G DUR:D (V):null:haydn-so_20240513235355.mid
+3:1.0: G MAJOR_TRIAD:ROOT(5):G DUR:T (I):null:haydn-so_20240513235355.mid
+3:2.0: E MINOR_SEVENTH:QUINTSEXT(5,6):G DUR:VI:null:haydn-so_20240513235355.mid
+4:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+5:2.0: A MINOR_TRIAD:SEXT(6):G DUR:II:null:haydn-so_20240513235355.mid
+6:2.0: F# DIMINISHED_TRIAD:ROOT(5):G DUR:VII:null:haydn-so_20240513235355.mid
+7:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+8:2.0: G MAJOR_TRIAD:ROOT(5):G DUR:T (I):null:haydn-so_20240513235355.mid
+9:1.5: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+9:2.0: D DOMINANT_SEVENTH_INCOMPLETE:QUARTSEXT(4,6):G DUR:D (V):null:haydn-so_20240513235355.mid
+10:2.0: G MAJOR_TRIAD:ROOT(5):G DUR:T (I):null:haydn-so_20240513235355.mid
+11:2.0: D MAJOR_TRIAD:SEXT(6):G DUR:D (V):null:haydn-so_20240513235355.mid
+12:2.0: C#! DIMINISHED_TRIAD:ROOT(5):G DUR:null:null:haydn-so_20240513235355.mid
+13:1.0: D MAJOR_SEVENTH:TERZQUART(3,4):G DUR:D (V):null:haydn-so_20240513235355.mid
+13:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+14:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+15:1.5: D MAJOR_TRIAD:ROOT(5):G DUR:D (V):null:haydn-so_20240513235355.mid
+15:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+16:1.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+16:1.5: A DOMINANT_SEVENTH_INCOMPLETE:QUARTSEXT(4,6):D DUR:D (V):null:haydn-so_20240513235355.mid
+16:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+17:0.5: D MAJOR_TRIAD:SEXT(6):D DUR:T (I):null:haydn-so_20240513235355.mid
+17:1.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+17:1.5: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+17:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+18:1.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+18:2.0: C# DIMINISHED_TRIAD:ROOT(5):D DUR:VII:null:haydn-so_20240513235355.mid
+19:0.25: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+19:1.0: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+19:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+20:0.5: C# DIMINISHED_TRIAD:ROOT(5):D DUR:VII:null:haydn-so_20240513235355.mid
+20:1.25: A MAJOR_TRIAD:SEXT(6):D DUR:D (V):null:haydn-so_20240513235355.mid
+20:2.0: A DOMINANT_SEVENTH:QUINTSEXT(5,6):D DUR:D (V):null:haydn-so_20240513235355.mid
+21:2.0: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+22:0.25: A DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):D DUR:D (V):null:haydn-so_20240513235355.mid
+22:0.5: A DOMINANT_SEVENTH:QUINTSEXT(5,6):D DUR:D (V):null:haydn-so_20240513235355.mid
+22:0.75: C# DIMINISHED_TRIAD:ROOT(5):D DUR:VII:null:haydn-so_20240513235355.mid
+22:1.0: A DOMINANT_SEVENTH:QUINTSEXT(5,6):D DUR:D (V):null:haydn-so_20240513235355.mid
+22:1.25: C# DIMINISHED_TRIAD:ROOT(5):D DUR:VII:null:haydn-so_20240513235355.mid
+22:1.5: A DOMINANT_SEVENTH:QUINTSEXT(5,6):D DUR:D (V):null:haydn-so_20240513235355.mid
+22:1.75: C# DIMINISHED_TRIAD:ROOT(5):D DUR:VII:null:haydn-so_20240513235355.mid
+22:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+23:0.5: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+23:1.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+23:1.5: C# DIMINISHED_TRIAD:ROOT(5):D DUR:VII:null:haydn-so_20240513235355.mid
+23:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+24:1.0: B MINOR_SEVENTH:QUINTSEXT(5,6):D DUR:VI:null:haydn-so_20240513235355.mid
+24:2.0: C# DIMINISHED_TRIAD:ROOT(5):D DUR:VII:null:haydn-so_20240513235355.mid
+25:0.5: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+25:1.0: B MINOR_SEVENTH:QUINTSEXT(5,6):D DUR:VI:null:haydn-so_20240513235355.mid
+25:2.0: E MINOR_TRIAD:SEXT(6):D DUR:II:null:haydn-so_20240513235355.mid
+26:2.0: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+27:1.0: B MINOR_SEVENTH:QUINTSEXT(5,6):D DUR:VI:null:haydn-so_20240513235355.mid
+27:2.0: E MINOR_TRIAD:SEXT(6):D DUR:II:null:haydn-so_20240513235355.mid
+28:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+29:1.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+31:1.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+31:2.0: D DOMINANT_SEVENTH_INCOMPLETE:QUARTSEXT(4,6):G DUR:D (V):null:haydn-so_20240513235355.mid
+32:1.0: G MAJOR_TRIAD:ROOT(5):G DUR:T (I):null:haydn-so_20240513235355.mid
+32:2.0: E MINOR_SEVENTH:QUINTSEXT(5,6):G DUR:VI:null:haydn-so_20240513235355.mid
+33:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+34:2.0: A MINOR_TRIAD:SEXT(6):G DUR:II:null:haydn-so_20240513235355.mid
+35:2.0: F# DIMINISHED_TRIAD:ROOT(5):G DUR:VII:null:haydn-so_20240513235355.mid
+36:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+37:2.0: G MAJOR_TRIAD:ROOT(5):G DUR:T (I):null:haydn-so_20240513235355.mid
+38:1.5: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+38:2.0: D DOMINANT_SEVENTH_INCOMPLETE:QUARTSEXT(4,6):G DUR:D (V):null:haydn-so_20240513235355.mid
+39:2.0: G MAJOR_TRIAD:ROOT(5):G DUR:T (I):null:haydn-so_20240513235355.mid
+40:2.0: D MAJOR_TRIAD:SEXT(6):G DUR:D (V):null:haydn-so_20240513235355.mid
+41:2.0: C#! DIMINISHED_TRIAD:ROOT(5):G DUR:null:null:haydn-so_20240513235355.mid
+42:1.0: D MAJOR_SEVENTH:TERZQUART(3,4):G DUR:D (V):null:haydn-so_20240513235355.mid
+42:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+43:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+44:1.5: D MAJOR_TRIAD:ROOT(5):G DUR:D (V):null:haydn-so_20240513235355.mid
+44:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+45:1.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+45:1.5: A DOMINANT_SEVENTH_INCOMPLETE:QUARTSEXT(4,6):D DUR:D (V):null:haydn-so_20240513235355.mid
+45:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+46:0.5: D MAJOR_TRIAD:SEXT(6):D DUR:T (I):null:haydn-so_20240513235355.mid
+46:1.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+46:1.5: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+46:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+47:1.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+47:2.0: C# DIMINISHED_TRIAD:ROOT(5):D DUR:VII:null:haydn-so_20240513235355.mid
+48:0.25: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+48:1.0: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+48:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+49:0.5: C# DIMINISHED_TRIAD:ROOT(5):D DUR:VII:null:haydn-so_20240513235355.mid
+49:1.25: A MAJOR_TRIAD:SEXT(6):D DUR:D (V):null:haydn-so_20240513235355.mid
+49:2.0: A DOMINANT_SEVENTH:QUINTSEXT(5,6):D DUR:D (V):null:haydn-so_20240513235355.mid
+50:2.0: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+51:0.25: A DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):D DUR:D (V):null:haydn-so_20240513235355.mid
+51:0.5: A DOMINANT_SEVENTH:QUINTSEXT(5,6):D DUR:D (V):null:haydn-so_20240513235355.mid
+51:0.75: C# DIMINISHED_TRIAD:ROOT(5):D DUR:VII:null:haydn-so_20240513235355.mid
+51:1.0: A DOMINANT_SEVENTH:QUINTSEXT(5,6):D DUR:D (V):null:haydn-so_20240513235355.mid
+51:1.25: C# DIMINISHED_TRIAD:ROOT(5):D DUR:VII:null:haydn-so_20240513235355.mid
+51:1.5: A DOMINANT_SEVENTH:QUINTSEXT(5,6):D DUR:D (V):null:haydn-so_20240513235355.mid
+51:1.75: C# DIMINISHED_TRIAD:ROOT(5):D DUR:VII:null:haydn-so_20240513235355.mid
+51:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+52:0.5: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+52:1.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+52:1.5: C# DIMINISHED_TRIAD:ROOT(5):D DUR:VII:null:haydn-so_20240513235355.mid
+52:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+53:1.0: B MINOR_SEVENTH:QUINTSEXT(5,6):D DUR:VI:null:haydn-so_20240513235355.mid
+53:2.0: C# DIMINISHED_TRIAD:ROOT(5):D DUR:VII:null:haydn-so_20240513235355.mid
+54:0.5: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+54:1.0: B MINOR_SEVENTH:QUINTSEXT(5,6):D DUR:VI:null:haydn-so_20240513235355.mid
+54:2.0: E MINOR_TRIAD:SEXT(6):D DUR:II:null:haydn-so_20240513235355.mid
+55:2.0: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+56:1.0: B MINOR_SEVENTH:QUINTSEXT(5,6):D DUR:VI:null:haydn-so_20240513235355.mid
+56:2.0: E MINOR_TRIAD:SEXT(6):D DUR:II:null:haydn-so_20240513235355.mid
+57:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+58:1.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+60:1.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+60:2.0: A DOMINANT_SEVENTH_INCOMPLETE:QUARTSEXT(4,6):D DUR:D (V):null:haydn-so_20240513235355.mid
+61:1.0: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+61:2.0: G MAJOR_SEVENTH:TERZQUART(3,4):D DUR:S (IV):null:haydn-so_20240513235355.mid
+62:2.0: A MINOR_TRIAD:ROOT(5):D DUR:D (V):null:haydn-so_20240513235355.mid
+63:2.0: H#! MAJOR_TRIAD:ROOT(5):D DUR:null:null:haydn-so_20240513235355.mid
+64:1.0: G MAJOR_TRIAD:ROOT(5):D DUR:S (IV):null:haydn-so_20240513235355.mid
+64:2.0: E MINOR_SEVENTH:QUINTSEXT(5,6):D DUR:II:null:haydn-so_20240513235355.mid
+65:2.0: D MINOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+66:0.25: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+66:0.5: H#! MAJOR_TRIAD:ROOT(5):D DUR:null:null:haydn-so_20240513235355.mid
+66:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+67:0.5: B DIMINISHED_TRIAD:ROOT(5):D DUR:VI:null:haydn-so_20240513235355.mid
+67:1.75: G MAJOR_TRIAD:SEXT(6):D DUR:S (IV):null:haydn-so_20240513235355.mid
+67:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+68:1.75: H#! MAJOR_TRIAD:ROOT(5):D DUR:null:null:haydn-so_20240513235355.mid
+68:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+69:0.25: G DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:haydn-so_20240513235355.mid
+69:0.75: G DOMINANT_SEVENTH:QUINTSEXT(5,6):C DUR:D (V):null:haydn-so_20240513235355.mid
+69:1.0: null:null:C DUR:null:null:haydn-so_20240513235355.mid
+69:1.25: B DIMINISHED_TRIAD:ROOT(5):C DUR:VII:null:haydn-so_20240513235355.mid
+69:1.5: null:null:C DUR:null:null:haydn-so_20240513235355.mid
+69:2.0: G DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):C DUR:D (V):null:haydn-so_20240513235355.mid
+70:2.0: C MAJOR_TRIAD:ROOT(5):C DUR:T (I):[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+71:0.5: A MAJOR_TRIAD:SEXT(6):C DUR:VI:[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+71:1.0: null:null:C DUR:null:[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+71:2.0: A DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):D DUR:D (V):[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+72:0.5: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+72:1.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+72:2.0: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+73:1.0: A MAJOR_TRIAD:SEXT(6):D DUR:D (V):null:haydn-so_20240513235355.mid
+73:2.0: A DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):D DUR:D (V):null:haydn-so_20240513235355.mid
+74:0.5: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+74:1.5: null:null:D DUR:null:[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+74:2.0: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+75:1.0: B MAJOR_TRIAD:SEXT(6):D DUR:VI:[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+75:2.0: B DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):E MOLL:D (V):[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+76:2.0: E MINOR_TRIAD:ROOT(5):E MOLL:T (I):[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+77:0.25: B MAJOR_TRIAD:SEXT(6):E MOLL:D (V):null:haydn-so_20240513235355.mid
+77:0.5: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+77:0.75: B MAJOR_TRIAD:SEXT(6):E MOLL:D (V):null:haydn-so_20240513235355.mid
+77:1.25: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+77:1.75: B DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):E MOLL:D (V):null:haydn-so_20240513235355.mid
+77:2.0: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+78:1.0: C#! DIMINISHED_MINOR_SEVENTH:QUINTSEXT(5,6):E MOLL:null:null:haydn-so_20240513235355.mid
+78:2.0: D DIMINISHED_TRIAD:ROOT(5):E MOLL:VII:null:haydn-so_20240513235355.mid
+79:0.25: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+79:0.5: E MINOR_TRIAD:ROOT(5):E MOLL:T (I):null:haydn-so_20240513235355.mid
+79:1.25: B MAJOR_TRIAD:ROOT(5):E MOLL:D (V):null:haydn-so_20240513235355.mid
+79:2.0: D DIMINISHED_TRIAD:ROOT(5):E MOLL:VII:null:haydn-so_20240513235355.mid
+80:0.5: E MINOR_TRIAD:ROOT(5):E MOLL:T (I):null:haydn-so_20240513235355.mid
+80:1.0: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+80:2.0: F# DIMINISHED_TRIAD:SEXT(6):E MOLL:II:null:haydn-so_20240513235355.mid
+81:2.0: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+82:1.0: C MAJOR_SEVENTH:QUINTSEXT(5,6):E MOLL:VI:null:haydn-so_20240513235355.mid
+82:2.0: F# DIMINISHED_TRIAD:SEXT(6):E MOLL:II:null:haydn-so_20240513235355.mid
+83:1.0: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+83:1.5: E MINOR_TRIAD:QUARTSEXT(4,6):E MOLL:T (I):null:haydn-so_20240513235355.mid
+83:2.0: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+84:2.0: E MINOR_TRIAD:SEXT(6):E MOLL:T (I):null:haydn-so_20240513235355.mid
+85:1.0: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+85:2.0: C#! DIMINISHED_MINOR_SEVENTH:SECUND(2):null:null:null:haydn-so_20240513235355.mid
+86:1.5: null:null:null:null:null:haydn-so_20240513235355.mid
+86:1.75: F# MINOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+86:1.875: F# MINOR_SEVENTH:SECUND(2):null:null:null:haydn-so_20240513235355.mid
+86:2.0: A MAJOR_TRIAD:QUARTSEXT(4,6):null:null:null:haydn-so_20240513235355.mid
+87:1.25: D MAJOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+87:1.5: null:null:null:null:null:haydn-so_20240513235355.mid
+87:1.625: D MAJOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+87:1.75: D DOMINANT_SEVENTH:SECUND(2):G DUR:D (V):null:haydn-so_20240513235355.mid
+87:2.0: F# DIMINISHED_TRIAD:QUARTSEXT(4,6):G DUR:VII:null:haydn-so_20240513235355.mid
+88:2.0: G MAJOR_TRIAD:ROOT(5):G DUR:T (I):null:haydn-so_20240513235355.mid
+89:1.5: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+89:2.0: D DOMINANT_SEVENTH_INCOMPLETE:QUARTSEXT(4,6):G DUR:D (V):null:haydn-so_20240513235355.mid
+90:1.0: G MAJOR_TRIAD:ROOT(5):G DUR:T (I):null:haydn-so_20240513235355.mid
+90:1.5: E MINOR_SEVENTH:QUINTSEXT(5,6):G DUR:VI:null:haydn-so_20240513235355.mid
+90:2.0: C MAJOR_TRIAD:QUARTSEXT(4,6):G DUR:S (IV):null:haydn-so_20240513235355.mid
+91:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+92:1.5: A MINOR_TRIAD:SEXT(6):G DUR:II:null:haydn-so_20240513235355.mid
+92:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+93:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+94:1.0: A MINOR_TRIAD:SEXT(6):G DUR:II:null:haydn-so_20240513235355.mid
+94:2.0: A DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:haydn-so_20240513235355.mid
+95:2.0: G MAJOR_TRIAD:QUARTSEXT(4,6):null:null:null:haydn-so_20240513235355.mid
+96:1.25: null:null:null:null:null:haydn-so_20240513235355.mid
+96:2.0: C MAJOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+97:0.25: G MAJOR_TRIAD:SEXT(6):null:null:null:haydn-so_20240513235355.mid
+97:1.75: G MAJOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+97:2.0: null:null:null:null:null:haydn-so_20240513235355.mid
+98:1.0: null:null:null:null:null:haydn-so_20240513235355.mid
+98:2.0: C MAJOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+99:2.0: G MAJOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+100:0.25: F# DIMINISHED_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+100:0.5: D DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:haydn-so_20240513235355.mid
+100:0.75: F# DIMINISHED_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+100:1.5: D MAJOR_TRIAD:SEXT(6):null:null:null:haydn-so_20240513235355.mid
+100:2.0: F# DIMINISHED_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+101:2.0: G MAJOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+102:0.25: F# DIMINISHED_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+102:0.5: D DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:haydn-so_20240513235355.mid
+102:0.75: F# DIMINISHED_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+102:1.5: D MAJOR_TRIAD:SEXT(6):null:null:null:haydn-so_20240513235355.mid
+102:2.0: F# DIMINISHED_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+103:1.5: G MAJOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+103:2.0: null:null:null:null:null:haydn-so_20240513235355.mid
+104:0.5: D DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:haydn-so_20240513235355.mid
+104:1.0: D DOMINANT_SEVENTH:QUINTSEXT(5,6):G DUR:D (V):null:haydn-so_20240513235355.mid
+104:1.5: F# DIMINISHED_TRIAD:ROOT(5):G DUR:VII:null:haydn-so_20240513235355.mid
+104:2.0: D DOMINANT_SEVENTH:QUINTSEXT(5,6):G DUR:D (V):null:haydn-so_20240513235355.mid
+105:0.5: G MAJOR_TRIAD:ROOT(5):G DUR:T (I):null:haydn-so_20240513235355.mid
+105:1.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+105:2.0: F# DIMINISHED_TRIAD:ROOT(5):G DUR:VII:null:haydn-so_20240513235355.mid
+106:1.0: E MINOR_SEVENTH:QUINTSEXT(5,6):G DUR:VI:null:haydn-so_20240513235355.mid
+106:2.0: F# DIMINISHED_TRIAD:ROOT(5):G DUR:VII:null:haydn-so_20240513235355.mid
+107:1.0: C MAJOR_SEVENTH:TERZQUART(3,4):G DUR:S (IV):null:haydn-so_20240513235355.mid
+107:2.0: A MINOR_TRIAD:SEXT(6):G DUR:II:null:haydn-so_20240513235355.mid
+108:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+109:1.0: C MAJOR_SEVENTH:TERZQUART(3,4):G DUR:S (IV):null:haydn-so_20240513235355.mid
+109:2.0: A MINOR_TRIAD:SEXT(6):G DUR:II:null:haydn-so_20240513235355.mid
+110:2.0: G MAJOR_TRIAD:SEXT(6):G DUR:T (I):null:haydn-so_20240513235355.mid
+111:1.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+113:1.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+113:2.0: A DOMINANT_SEVENTH_INCOMPLETE:QUARTSEXT(4,6):D DUR:D (V):null:haydn-so_20240513235355.mid
+114:1.0: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+114:2.0: G MAJOR_SEVENTH:TERZQUART(3,4):D DUR:S (IV):null:haydn-so_20240513235355.mid
+115:2.0: A MINOR_TRIAD:ROOT(5):D DUR:D (V):null:haydn-so_20240513235355.mid
+116:2.0: H#! MAJOR_TRIAD:ROOT(5):D DUR:null:null:haydn-so_20240513235355.mid
+117:1.0: G MAJOR_TRIAD:ROOT(5):D DUR:S (IV):null:haydn-so_20240513235355.mid
+117:2.0: E MINOR_SEVENTH:QUINTSEXT(5,6):D DUR:II:null:haydn-so_20240513235355.mid
+118:2.0: D MINOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+119:0.25: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+119:0.5: H#! MAJOR_TRIAD:ROOT(5):D DUR:null:null:haydn-so_20240513235355.mid
+119:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+120:0.5: B DIMINISHED_TRIAD:ROOT(5):D DUR:VI:null:haydn-so_20240513235355.mid
+120:1.75: G MAJOR_TRIAD:SEXT(6):D DUR:S (IV):null:haydn-so_20240513235355.mid
+120:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+121:1.75: H#! MAJOR_TRIAD:ROOT(5):D DUR:null:null:haydn-so_20240513235355.mid
+121:2.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+122:0.25: G DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:haydn-so_20240513235355.mid
+122:0.75: G DOMINANT_SEVENTH:QUINTSEXT(5,6):C DUR:D (V):null:haydn-so_20240513235355.mid
+122:1.0: null:null:C DUR:null:null:haydn-so_20240513235355.mid
+122:1.25: B DIMINISHED_TRIAD:ROOT(5):C DUR:VII:null:haydn-so_20240513235355.mid
+122:1.5: null:null:C DUR:null:null:haydn-so_20240513235355.mid
+122:2.0: G DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):C DUR:D (V):null:haydn-so_20240513235355.mid
+123:2.0: C MAJOR_TRIAD:ROOT(5):C DUR:T (I):[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+124:0.5: A MAJOR_TRIAD:SEXT(6):C DUR:VI:[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+124:1.0: null:null:C DUR:null:[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+124:2.0: A DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):D DUR:D (V):[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+125:0.5: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+125:1.0: null:null:D DUR:null:null:haydn-so_20240513235355.mid
+125:2.0: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):null:haydn-so_20240513235355.mid
+126:1.0: A MAJOR_TRIAD:SEXT(6):D DUR:D (V):null:haydn-so_20240513235355.mid
+126:2.0: A DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):D DUR:D (V):null:haydn-so_20240513235355.mid
+127:0.5: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+127:1.5: null:null:D DUR:null:[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+127:2.0: D MAJOR_TRIAD:ROOT(5):D DUR:T (I):[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+128:1.0: B MAJOR_TRIAD:SEXT(6):D DUR:VI:[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+128:2.0: B DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):E MOLL:D (V):[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+129:2.0: E MINOR_TRIAD:ROOT(5):E MOLL:T (I):[T (I), VI, D (V), T (I)]:haydn-so_20240513235355.mid
+130:0.25: B MAJOR_TRIAD:SEXT(6):E MOLL:D (V):null:haydn-so_20240513235355.mid
+130:0.5: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+130:0.75: B MAJOR_TRIAD:SEXT(6):E MOLL:D (V):null:haydn-so_20240513235355.mid
+130:1.25: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+130:1.75: B DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):E MOLL:D (V):null:haydn-so_20240513235355.mid
+130:2.0: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+131:1.0: C#! DIMINISHED_MINOR_SEVENTH:QUINTSEXT(5,6):E MOLL:null:null:haydn-so_20240513235355.mid
+131:2.0: D DIMINISHED_TRIAD:ROOT(5):E MOLL:VII:null:haydn-so_20240513235355.mid
+132:0.25: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+132:0.5: E MINOR_TRIAD:ROOT(5):E MOLL:T (I):null:haydn-so_20240513235355.mid
+132:1.25: B MAJOR_TRIAD:ROOT(5):E MOLL:D (V):null:haydn-so_20240513235355.mid
+132:2.0: D DIMINISHED_TRIAD:ROOT(5):E MOLL:VII:null:haydn-so_20240513235355.mid
+133:0.5: E MINOR_TRIAD:ROOT(5):E MOLL:T (I):null:haydn-so_20240513235355.mid
+133:1.0: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+133:2.0: F# DIMINISHED_TRIAD:SEXT(6):E MOLL:II:null:haydn-so_20240513235355.mid
+134:2.0: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+135:1.0: C MAJOR_SEVENTH:QUINTSEXT(5,6):E MOLL:VI:null:haydn-so_20240513235355.mid
+135:2.0: F# DIMINISHED_TRIAD:SEXT(6):E MOLL:II:null:haydn-so_20240513235355.mid
+136:1.0: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+136:1.5: E MINOR_TRIAD:QUARTSEXT(4,6):E MOLL:T (I):null:haydn-so_20240513235355.mid
+136:2.0: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+137:2.0: E MINOR_TRIAD:SEXT(6):E MOLL:T (I):null:haydn-so_20240513235355.mid
+138:1.0: null:null:E MOLL:null:null:haydn-so_20240513235355.mid
+138:2.0: C#! DIMINISHED_MINOR_SEVENTH:SECUND(2):null:null:null:haydn-so_20240513235355.mid
+139:1.5: null:null:null:null:null:haydn-so_20240513235355.mid
+139:1.75: F# MINOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+139:1.875: F# MINOR_SEVENTH:SECUND(2):null:null:null:haydn-so_20240513235355.mid
+139:2.0: A MAJOR_TRIAD:QUARTSEXT(4,6):null:null:null:haydn-so_20240513235355.mid
+140:1.25: D MAJOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+140:1.5: null:null:null:null:null:haydn-so_20240513235355.mid
+140:1.625: D MAJOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+140:1.75: D DOMINANT_SEVENTH:SECUND(2):G DUR:D (V):null:haydn-so_20240513235355.mid
+140:2.0: F# DIMINISHED_TRIAD:QUARTSEXT(4,6):G DUR:VII:null:haydn-so_20240513235355.mid
+141:2.0: G MAJOR_TRIAD:ROOT(5):G DUR:T (I):null:haydn-so_20240513235355.mid
+142:1.5: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+142:2.0: D DOMINANT_SEVENTH_INCOMPLETE:QUARTSEXT(4,6):G DUR:D (V):null:haydn-so_20240513235355.mid
+143:1.0: G MAJOR_TRIAD:ROOT(5):G DUR:T (I):null:haydn-so_20240513235355.mid
+143:1.5: E MINOR_SEVENTH:QUINTSEXT(5,6):G DUR:VI:null:haydn-so_20240513235355.mid
+143:2.0: C MAJOR_TRIAD:QUARTSEXT(4,6):G DUR:S (IV):null:haydn-so_20240513235355.mid
+144:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+145:1.5: A MINOR_TRIAD:SEXT(6):G DUR:II:null:haydn-so_20240513235355.mid
+145:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+146:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+147:1.0: A MINOR_TRIAD:SEXT(6):G DUR:II:null:haydn-so_20240513235355.mid
+147:2.0: A DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:haydn-so_20240513235355.mid
+148:2.0: G MAJOR_TRIAD:QUARTSEXT(4,6):null:null:null:haydn-so_20240513235355.mid
+149:1.25: null:null:null:null:null:haydn-so_20240513235355.mid
+149:2.0: C MAJOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+150:0.25: G MAJOR_TRIAD:SEXT(6):null:null:null:haydn-so_20240513235355.mid
+150:1.75: G MAJOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+150:2.0: null:null:null:null:null:haydn-so_20240513235355.mid
+151:1.0: null:null:null:null:null:haydn-so_20240513235355.mid
+151:2.0: C MAJOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+152:2.0: G MAJOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+153:0.25: F# DIMINISHED_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+153:0.5: D DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:haydn-so_20240513235355.mid
+153:0.75: F# DIMINISHED_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+153:1.5: D MAJOR_TRIAD:SEXT(6):null:null:null:haydn-so_20240513235355.mid
+153:2.0: F# DIMINISHED_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+154:2.0: G MAJOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+155:0.25: F# DIMINISHED_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+155:0.5: D DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:haydn-so_20240513235355.mid
+155:0.75: F# DIMINISHED_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+155:1.5: D MAJOR_TRIAD:SEXT(6):null:null:null:haydn-so_20240513235355.mid
+155:2.0: F# DIMINISHED_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+156:1.5: G MAJOR_TRIAD:ROOT(5):null:null:null:haydn-so_20240513235355.mid
+156:2.0: null:null:null:null:null:haydn-so_20240513235355.mid
+157:0.5: D DOMINANT_SEVENTH_INCOMPLETE:SEXT(6):null:null:null:haydn-so_20240513235355.mid
+157:1.0: D DOMINANT_SEVENTH:QUINTSEXT(5,6):G DUR:D (V):null:haydn-so_20240513235355.mid
+157:1.5: F# DIMINISHED_TRIAD:ROOT(5):G DUR:VII:null:haydn-so_20240513235355.mid
+157:2.0: D DOMINANT_SEVENTH:QUINTSEXT(5,6):G DUR:D (V):null:haydn-so_20240513235355.mid
+158:0.5: G MAJOR_TRIAD:ROOT(5):G DUR:T (I):null:haydn-so_20240513235355.mid
+158:1.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+158:2.0: F# DIMINISHED_TRIAD:ROOT(5):G DUR:VII:null:haydn-so_20240513235355.mid
+159:1.0: E MINOR_SEVENTH:QUINTSEXT(5,6):G DUR:VI:null:haydn-so_20240513235355.mid
+159:2.0: F# DIMINISHED_TRIAD:ROOT(5):G DUR:VII:null:haydn-so_20240513235355.mid
+160:1.0: C MAJOR_SEVENTH:TERZQUART(3,4):G DUR:S (IV):null:haydn-so_20240513235355.mid
+160:2.0: A MINOR_TRIAD:SEXT(6):G DUR:II:null:haydn-so_20240513235355.mid
+161:2.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
+162:1.0: C MAJOR_SEVENTH:TERZQUART(3,4):G DUR:S (IV):null:haydn-so_20240513235355.mid
+162:2.0: A MINOR_TRIAD:SEXT(6):G DUR:II:null:haydn-so_20240513235355.mid
+163:2.0: G MAJOR_TRIAD:SEXT(6):G DUR:T (I):null:haydn-so_20240513235355.mid
+164:1.0: null:null:G DUR:null:null:haydn-so_20240513235355.mid
